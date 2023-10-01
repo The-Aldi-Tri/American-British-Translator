@@ -1,0 +1,6 @@
+components/*.js
+public/index.js
+routes/fcctesting.js
+assertion-analyser.js
+server.js
+test-runner.js

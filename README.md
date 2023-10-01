@@ -1,4 +1,4 @@
-# American British Translato
+# American British Translator
 Build a full stack JavaScript app that is functionally similar to this: https://american-british-translator.freecodecamp.rocks/. 
 
 ## FreeCodeCamp - Quality Assurance Certification Projects
